@@ -1,6 +1,6 @@
 I’m @Shy-boomingtech
 
-Fish and cat
+Fish and fish
 
 <!---
 Shy-boomingtech/Shy-boomingtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
