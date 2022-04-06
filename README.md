@@ -1,4 +1,4 @@
-Games104：现代计算机图形学入门
+Games104：现代游戏引擎：从入门到实践
 
 课程主页：https://games104.boomingtech.com/sc/
 
